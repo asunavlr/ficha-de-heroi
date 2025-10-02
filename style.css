@@ -15,3 +15,11 @@ header h1 {
     font-size: 2em;
     letter-spacing: 2px;
 }
+main {
+    max-width: 800px;
+    margin: 30px auto;
+    background: #2d2f34;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.6);
+}
